@@ -1,0 +1,21 @@
+c:\users\brkyk\documents\visual studio 2017\Projects\ISSHW\ISSHW\bin\Debug\ISSHW.exe.config
+c:\users\brkyk\documents\visual studio 2017\Projects\ISSHW\ISSHW\bin\Debug\ISSHW.exe
+c:\users\brkyk\documents\visual studio 2017\Projects\ISSHW\ISSHW\bin\Debug\ISSHW.pdb
+c:\users\brkyk\documents\visual studio 2017\Projects\ISSHW\ISSHW\obj\Debug\ISSHW.csprojResolveAssemblyReference.cache
+c:\users\brkyk\documents\visual studio 2017\Projects\ISSHW\ISSHW\obj\Debug\ISSHW.FormMain.resources
+c:\users\brkyk\documents\visual studio 2017\Projects\ISSHW\ISSHW\obj\Debug\ISSHW.Properties.Resources.resources
+c:\users\brkyk\documents\visual studio 2017\Projects\ISSHW\ISSHW\obj\Debug\ISSHW.csproj.GenerateResource.Cache
+c:\users\brkyk\documents\visual studio 2017\Projects\ISSHW\ISSHW\obj\Debug\ISSHW.exe
+c:\users\brkyk\documents\visual studio 2017\Projects\ISSHW\ISSHW\obj\Debug\ISSHW.pdb
+C:\Users\brkyk\Documents\Visual Studio 2017\Projects\ISSHW\ISSHW\bin\Debug\MessageBoxManager.dll
+E:\BERKAY KANCA\NOTLARIM\Yedek\COM472 - INFORMATION SYSTEM SECURITY\Ders Notlarım\ISSHW\ISSHW\bin\Debug\ISSHW.exe.config
+E:\BERKAY KANCA\NOTLARIM\Yedek\COM472 - INFORMATION SYSTEM SECURITY\Ders Notlarım\ISSHW\ISSHW\bin\Debug\ISSHW.exe
+E:\BERKAY KANCA\NOTLARIM\Yedek\COM472 - INFORMATION SYSTEM SECURITY\Ders Notlarım\ISSHW\ISSHW\bin\Debug\ISSHW.pdb
+E:\BERKAY KANCA\NOTLARIM\Yedek\COM472 - INFORMATION SYSTEM SECURITY\Ders Notlarım\ISSHW\ISSHW\obj\Debug\ISSHW.csprojAssemblyReference.cache
+E:\BERKAY KANCA\NOTLARIM\Yedek\COM472 - INFORMATION SYSTEM SECURITY\Ders Notlarım\ISSHW\ISSHW\obj\Debug\ISSHW.FormMain.resources
+E:\BERKAY KANCA\NOTLARIM\Yedek\COM472 - INFORMATION SYSTEM SECURITY\Ders Notlarım\ISSHW\ISSHW\obj\Debug\ISSHW.Properties.Resources.resources
+E:\BERKAY KANCA\NOTLARIM\Yedek\COM472 - INFORMATION SYSTEM SECURITY\Ders Notlarım\ISSHW\ISSHW\obj\Debug\ISSHW.csproj.GenerateResource.cache
+E:\BERKAY KANCA\NOTLARIM\Yedek\COM472 - INFORMATION SYSTEM SECURITY\Ders Notlarım\ISSHW\ISSHW\obj\Debug\ISSHW.csproj.CoreCompileInputs.cache
+E:\BERKAY KANCA\NOTLARIM\Yedek\COM472 - INFORMATION SYSTEM SECURITY\Ders Notlarım\ISSHW\ISSHW\obj\Debug\ISSHW.csproj.CopyComplete
+E:\BERKAY KANCA\NOTLARIM\Yedek\COM472 - INFORMATION SYSTEM SECURITY\Ders Notlarım\ISSHW\ISSHW\obj\Debug\ISSHW.exe
+E:\BERKAY KANCA\NOTLARIM\Yedek\COM472 - INFORMATION SYSTEM SECURITY\Ders Notlarım\ISSHW\ISSHW\obj\Debug\ISSHW.pdb
